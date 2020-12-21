@@ -9,5 +9,5 @@ I'm Front-end JavaScript Developer and caffeine addicted :coffee:
 </p>
 
 - :dart: I’m currently learning Vue.js
-- :email: Ask me about anything related to JavaSciprt, Vue
+- :email: Ask me about anything related to JavaScript, Vue
 - 📫 How to reach me: tunarbaris7@gmail.com
