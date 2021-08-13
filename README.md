@@ -8,6 +8,6 @@ I'm Front-end Developer and caffeine addicted :coffee:
 
 </p>
 
-- :dart: I’m currently learning Vue.js
+- :dart: I’m currently coding with Vue.js
 - :email: Ask me about anything related to JavaScript, Vue
 - 📫 How to reach me: tunarbaris7@gmail.com
