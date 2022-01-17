@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tunarbaris7@gmail.com**
 
-- ⚡ Fun fact **Funny and Coder 🤪**
+- ⚡ **Funny and Coder 🤪**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
