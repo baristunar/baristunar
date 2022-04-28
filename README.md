@@ -13,7 +13,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning Node.js, Mongodb 
+- 🌱 I’m currently learning Design Patterns, Node.js.
 
 - 👯 I’m looking to collaborate on Interesting projects 
 
